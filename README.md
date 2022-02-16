@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou Carlos Alberto
 - 👀 Estou interessado em desenvolvimento WEB PHP/LARAVEL
 - 🌱 Atualmente estou aprendendo PHP/LARAVEL
-- 💞️ Estou procurando colaborar em Proetos com PHP/LARAVEL
+- 💞️ Estou procurando colaborar em Projetos com PHP/LARAVEL
 - 📫 Como chegar até mim: email:admcas02@gmail.com
 
 <!---
